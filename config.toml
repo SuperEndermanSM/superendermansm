@@ -1,0 +1,87 @@
+baseurl = "https://superendermansm.gitee.io"
+languageCode = "en"
+defaultContentLanguage = "zh"
+title = "shenmo的世界"
+theme = "dream"
+
+ copyright = "shenmo"
+
+ #googleAnalytics = "G-LH45F8QHB6"
+
+# disqusShortname = ""
+
+# enableRobotsTXT = true
+
+[params]
+  background = "#f7f7f7"
+   backgroundImage = "/img/background.jpg"
+  linkColor = "seagreen"
+
+   #dark mode
+   defaultDark = false
+   backgroundDark = "black"
+   backgroundImageDark = "/img/wallpaper.jpg"
+   darkLinkColor = "darkseagreen"
+   darkNav = true
+   dark404 = true
+
+  author = "shenmo"
+   description = "沫"
+  avatar = "/img/avatar.jpeg"
+  headerTitle = "shenmo的世界"
+  motto = "安柏单推人~"
+  # maxTags = 5
+  # categoriesLimitInHeader = 6 # deprecated
+  # headerBottomText = "???????" # deprecated
+
+   footerBottomText = "看不见我～"
+
+   rss = true
+
+  # utterancesRepo = ""
+
+   valine = true
+   LEANCLOUD_APP_ID = "euHqWEo74Ia7dhJMLhwcqBU8-gzGzoHsz"
+   LEANCLOUD_APP_KEY = "rbHg8yFAvTM0DNkJC1OAyswj"
+   VALINE_LANGUAGE = "zh"
+
+  email = "jifengshenmo@outlook.com"
+  # twitter = ""
+  # facebook = ""
+  # instagram = ""
+  # mastodon = ""
+  # linkedin = ""
+   github = "SuperEndermanSM"
+  # stackoverflow = ""
+  # codepen = ""
+
+  siteStartYear = 2019
+
+   favicon = "/favicon.ico"
+
+   highlightjs = true
+   highlightjsCDN = "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release/build/highlight.min.js"
+   highlightjsExtraLanguages = ["ocaml"]
+   highlightjsTheme = "gruvbox-light"
+   highlightjsThemeDark = "gruvbox-dark"
+
+  # search
+  # enableSearch = true
+
+  # options
+   showSummaryCoverInPost = true
+  # hasTwitterEmbed = true
+   reversePostAndAside = true
+   shareInAside = true
+  # fixedNav = true
+  # collapsibleTags = true
+  # collapseBySummary = true
+
+  # [params.advanced]
+     customCSS = ["css/custom.css"]
+     customJSBefore = []
+     customJS = []
+
+  # [params.experimental]
+     jsDate = true
+     jsDateFormat = "yyyy年MM月dd日"
