@@ -5,7 +5,7 @@ lastmod: 2021-10-08T12:29:20+08:00
 author: shenmo
 avatar: /img/avatar.jpeg
 # authorlink: https://author.site
-cover: /img/background.jpg
+cover:https://z3.ax1x.com/2021/10/02/4bdqJK.gif
 # images:
 #   - /img/cover.jpg
 categories:
@@ -15,15 +15,11 @@ tags:
 # nolastmod: true
 draft: false
 ---
-
-这里输入的内容会出现在主页也在正文里
+最开始把Linux当做主力系统是deepin 15.9，本人是非常习惯热区操作的
+什么是热区呢？就是屏幕四个角用鼠标戳的时候进行某些操作
 
 <!--more-->
 
-这里是正文开始的内容
-
-最开始把Linux当做主力系统是deepin 15.9，本人是非常习惯热区操作的
-什么是热区呢？就是屏幕四个角用鼠标戳的时候进行某些操作
 deepin的一个经典操作就是猛戳右下角出控制中心
 然而，后来在某些客户的要求下，热区被关闭了
 一直到后来某个版本开始，甚至每次启动dde-kwin都会强制覆盖kwinrc文件来防止手动开启热区……
