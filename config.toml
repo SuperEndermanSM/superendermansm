@@ -85,3 +85,7 @@ theme = "dream"
   # [params.experimental]
      jsDate = true
      jsDateFormat = "yyyy年MM月dd日"
+
+ [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
