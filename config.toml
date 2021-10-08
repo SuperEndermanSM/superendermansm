@@ -20,7 +20,7 @@ theme = "dream"
    #dark mode
    defaultDark = false
    backgroundDark = "black"
-   backgroundImageDark = "/img/wallpaper.jpg"
+   backgroundImageDark = "/img/wallpaper.png"
    darkLinkColor = "darkseagreen"
    darkNav = true
    dark404 = true
