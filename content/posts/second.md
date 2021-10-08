@@ -5,7 +5,7 @@ lastmod: 2021-10-08T12:29:20+08:00
 author: shenmo
 avatar: /img/avatar.jpeg
 # authorlink: https://author.site
-cover:https://z3.ax1x.com/2021/10/02/4bdqJK.gif
+cover: https://z3.ax1x.com/2021/10/02/4bdqJK.gif
 # images:
 #   - /img/cover.jpg
 categories:
