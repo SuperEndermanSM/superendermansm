@@ -373,5 +373,3 @@ TopRightShell=
 ukui下的测试彻底失败了，现在我的omd-requ仓库中的版本根本没法运行，最后还是只有第一个release能用
 
 最后还是拥抱了dde
-
-# UKUI，还有很长的路要走啊！
