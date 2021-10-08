@@ -5,7 +5,7 @@ lastmod: 2021-10-08T12:29:20+08:00
 author: shenmo
 avatar: /img/avatar.jpeg
 # authorlink: https://author.site
-cover: /img/Icey-view.png
+cover: /img/background.jpg
 # images:
 #   - /img/cover.jpg
 categories:

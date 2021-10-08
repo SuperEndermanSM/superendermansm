@@ -14,13 +14,13 @@ theme = "dream"
 
 [params]
   background = "#f7f7f7"
-   backgroundImage = "/img/background.jpg"
+   backgroundImage = "/img/background.png"
   linkColor = "seagreen"
 
    #dark mode
    defaultDark = false
    backgroundDark = "black"
-   backgroundImageDark = "/img/wallpaper.png"
+   backgroundImageDark = "/img/wallpaper.jpg"
    darkLinkColor = "darkseagreen"
    darkNav = true
    dark404 = true
