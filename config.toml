@@ -77,10 +77,10 @@ theme = "dream"
   # collapsibleTags = true
   # collapseBySummary = true
 
-  # [params.advanced]
-     customCSS = ["css/custom.css"]
+   [params.advanced]
+     customCSS = ["css/custom.css","https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"]
      customJSBefore = []
-     customJS = []
+     customJS = ["js/custom.js","https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js","https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js"]
 
   # [params.experimental]
      jsDate = true
