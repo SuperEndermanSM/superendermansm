@@ -80,7 +80,7 @@ theme = "dream"
    [params.advanced]
      customCSS = ["css/custom.css","https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"]
      customJSBefore = []
-     customJS = ["js/custom.js","https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js","https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js"]
+     customJS = ["custom.js","https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js","https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js"]
 
   # [params.experimental]
      jsDate = true
@@ -89,3 +89,11 @@ theme = "dream"
  [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+    # 第三方库配置
+    [params.page.library]
+      [params.page.library.css]
+      [params.page.library.js]
+        live2d-widget1 = "https://cdn.jsdelivr.net/npm/live2d-widget@3.1.4/lib/L2Dwidget.min.js"
+        live2d-widget2 = "https://cdn.jsdelivr.net/npm/live2d-widget@3.1.4/lib/L2Dwidget.0.min.js"
+        live2d-config = "/js/live2d_config.js"
